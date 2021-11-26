@@ -8,6 +8,37 @@
 .technology-banner-holder h1 span{
     font-size: 1.5rem;
 }
+.carousel-caption{
+    padding-bottom: 10px;
+    z-index: 2;
+}
+.carousel-caption h1{
+    font-size: 50px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #fff;
+    font-weight: 900;
+}
+.carousel-caption p{
+    font-size: 25px;
+    letter-spacing: 2px;
+    color: #fff;
+    font-weight: 500;
+}
+@media only screen and (max-width: 767px){
+    .carousel-caption{
+        padding-bottom: 10px;
+    }
+    .carousel-caption h1{
+        font-size: 30px;
+        width: 100%;
+    }
+    .carousel-caption p{
+        font-size: 15px;
+        letter-spacing: 1px;
+    }
+    
+}
 .commontext .mb-3{
    margin-top: 10px;
 }
@@ -26,6 +57,7 @@
 .dservice h2{
     color: #000;
 }
+
 .wraper-home-industry .home-industry-box .home-industry-box-item>.holder>.pic img{
 	width: 700px;
 	height: 300px;

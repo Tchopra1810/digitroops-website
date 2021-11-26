@@ -375,4 +375,52 @@ h2 {
     transition: left 0.28s ease, width 0.28s ease;
     z-index: 2;
 }
+.carousel-caption{
+    padding-bottom: 240px;
+    z-index: 2;
+}
+.carousel-caption h1{
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #fff;
+    font-weight: 900;
+}
+.carousel-caption p{
+    font-size: 25px;
+    letter-spacing: 2px;
+    color: #fff;
+    font-weight: 500;
+}
+.carousel-caption a{
+    text-transform: uppercase;
+    background: #000;
+    padding: 10px 30px;
+    display: inline-block;
+    color: #fff;
+    margin-top: 15px;
+    border-radius: 50px;
+
+}
+@media only screen and (max-width: 767px){
+    .carousel-caption{
+        padding-bottom: 20px;
+    }
+    .carousel-caption h1{
+        font-size: 18px;
+    }
+    .carousel-caption p{
+        font-size: 12px;
+    }
+    .carousel-caption a{
+    text-transform: uppercase;
+    background: #000;
+    padding: 2px 6px;
+    display: inline-block;
+    color: #fff;
+    margin-top: 2px;
+    border-radius: 50px;
+
+}
+}
 
