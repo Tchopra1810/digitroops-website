@@ -13,6 +13,15 @@
 }
 
 
+#forStory{
+    height: 1vw;
+}
+
+
+.row{
+    justify-content: space-between;
+}
+
 
 .bgImageContainer{
     height: 500px;
@@ -25,8 +34,9 @@
     font-size: 50px;
 }
 
-.commontext{
-    margin-top: -312px;
+.row1{
+    display: flex;
+    justify-content: space-between;
 }
  
 .page-title1{
