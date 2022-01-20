@@ -1,6 +1,9 @@
+html{
+    scroll-behavior: smooth;
+}
 body{
     background-color:#1E1F31;
-    scroll-behavior: smoothness;
+    
 }
 .main-navbar {
     position: fixed;
