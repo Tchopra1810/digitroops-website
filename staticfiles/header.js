@@ -35,14 +35,14 @@ class Header extends HTMLElement {
                 <ul class="mobile-dropdown-list">
                   <li><a class="mobile-dropdown-item" href="services/digital-marketing/index.html">Digital Marketing</a></li>
                   <!-- <li><a class="mobile-dropdown-item" href="how-we-work">How we work</a></li> -->
-                  <li><a class="mobile-dropdown-item" href="services/web development/index.html">Web Design and Devlopment</a></li>
-                  <li><a class="mobile-dropdown-item" href="#">Data Research and Analysis</a></li>
-                  <li><a class="mobile-dropdown-item" href="services/software/index.html">Software-Devlopment and Testing</a></li>
-                  <li><a class="mobile-dropdown-item" href="#">Cloud Transformation and Services</a></li>
+                  <li><a class="mobile-dropdown-item" href="services/web development/index.html">Web Design and Development</a></li>
+                  <li><a class="mobile-dropdown-item" href="services/datascience/index.html">Data Research and Analysis</a></li>
+                  <li><a class="mobile-dropdown-item" href="services/software/index.html">Software-Development and Testing</a></li>
+                  <li><a class="mobile-dropdown-item" href="services/cloudT&S">Cloud Transformation and Services</a></li>
                   <li><a class="mobile-dropdown-item" href="services/automation/index.html">Automation</a></li>
                   <li><a class="mobile-dropdown-item" href="services/it&infrastructure/index.html">IT Infrastructure Services</a></li>
-                  <li><a class="mobile-dropdown-item" href="#">Consulting and Advisory</a></li>
-                  <li><a class="mobile-dropdown-item" href="services/trainingAndDevelopment/index.html">Training and Devlopment</a></li>
+                  <li><a class="mobile-dropdown-item" href="services/consultancyAndAdvisory/index.html">Consulting and Advisory</a></li>
+                  <li><a class="mobile-dropdown-item" href="services/trainingAndDevelopment/index.html">Training and Development</a></li>
                 </ul>
               </li>
               <li class="dropdown-parent-li"><a href="#forProcess">How we work</a></li>
@@ -52,7 +52,6 @@ class Header extends HTMLElement {
                 </ul>
               </li>
              <li class="dropdown-parent-li"><a href="about/index.html">Company</a></li>
-              
             </ul>
           </nav>
           <!-- mobile-menu -->
@@ -143,18 +142,17 @@ class Header extends HTMLElement {
                       <!-- uipl-sub-menu-section -->
                       <div class="uipl-sub-menu-section">
                         <ul class="menu">
-                          <li><a href="services/digital-marketing/index.html">Digital Marketing</a></li>
-                          <!-- <li><a href="how-we-work">How we work</a></li> -->
-                          <li><a href="services/web development/index.html">Web Design and Devlopment</a></li>
-                          <li><a href="#">Data Research and Analysis</a></li>
-                          <li><a href="services/software/index.html">Software-Devlopment and Testing</a></li>
-                          <li><a href="#">Cloud Transformation and Services</a></li>
-                          <li><a href="services/automation/index.html">Automation</a></li>
-                          <li><a href="services/it&infrastructure/index.html">IT Infrastructure Services</a></li>
-                          <li><a href="#">Consulting and Advisory</a></li>
-
-                          <li><a href="services/trainingAndDevelopment/index.html">Training and Devlopment</a></li>
-                        </ul>
+                        <li><a class="mobile-dropdown-item" href="services/digital-marketing/index.html">Digital Marketing</a></li>
+                        <!-- <li><a class="mobile-dropdown-item" href="how-we-work">How we work</a></li> -->
+                        <li><a class="mobile-dropdown-item" href="services/web development/index.html">Web Design and Development</a></li>
+                        <li><a class="mobile-dropdown-item" href="services/datascience/index.html">Data Research and Analysis</a></li>
+                        <li><a class="mobile-dropdown-item" href="services/software/index.html">Software-Development and Testing</a></li>
+                        <li><a class="mobile-dropdown-item" href="services/cloudT&S">Cloud Transformation and Services</a></li>
+                        <li><a class="mobile-dropdown-item" href="services/automation/index.html">Automation</a></li>
+                        <li><a class="mobile-dropdown-item" href="services/it&infrastructure/index.html">IT Infrastructure Services</a></li>
+                        <li><a class="mobile-dropdown-item" href="services/consultancyAndAdvisory/index.html">Consulting and Advisory</a></li>
+                        <li><a class="mobile-dropdown-item" href="services/trainingAndDevelopment/index.html">Training and Development</a></li>
+                       </ul>
                       </div>
                       <!-- uipl-sub-menu-section -->
                     </div>
@@ -282,17 +280,17 @@ class serviceheader2 extends HTMLElement {
                   <ul id="menu-header-menu" class="main-menu">
                     <li class="dropdown-parent-li"><a class="mobile-dropdown" href="#">Services</a> <span class="mobile-dropdown-arrow"></span>
                       <ul class="mobile-dropdown-list">
-                        <li><a class="mobile-dropdown-item" href="../services/digital-marketing/index.html">Digital Marketing</a></li>
-                        <!-- <li><a class="mobile-dropdown-item" href="how-we-work">How we work</a></li> -->
-                        <li><a class="mobile-dropdown-item" href="../services/web development/index.html">Web Devlopment and Design</a></li>
-                        <li><a class="mobile-dropdown-item" href="#">Data Research and Analysis</a></li>
-                        <li><a href="../services/software/index.html">Software-Devlopment and Testing</a></li>
-                        <li><a class="mobile-dropdown-item" href="#">Cloud Transformation and Services</a></li>
-                        <li><a class="mobile-dropdown-item" href="../services/automation/index.html">Automation</a></li>
-                        <li><a class="mobile-dropdown-item" href="../services/it&infrastructure/index.html">IT Infrastructure</a></li>
-                        <li><a class="mobile-dropdown-item" href="#">Advisory and Consultancy</a></li>
-                        <li><a class="mobile-dropdown-item" href="../services/trainingAndDevelopment/index.html">Training and Devlopment</a></li>
-                  
+                      <li><a class="mobile-dropdown-item" href="services/digital-marketing/index.html">Digital Marketing</a></li>
+                      <!-- <li><a class="mobile-dropdown-item" href="how-we-work">How we work</a></li> -->
+                      <li><a class="mobile-dropdown-item" href="../services/web development/index.html">Web Design and Development</a></li>
+                      <li><a class="mobile-dropdown-item" href="../services/datascience/index.html">Data Research and Analysis</a></li>
+                      <li><a class="mobile-dropdown-item" href="../services/software/index.html">Software-Development and Testing</a></li>
+                      <li><a class="mobile-dropdown-item" href="../services/cloudT&S">Cloud Transformation and Services</a></li>
+                      <li><a class="mobile-dropdown-item" href="../services/automation/index.html">Automation</a></li>
+                      <li><a class="mobile-dropdown-item" href="../services/it&infrastructure/index.html">IT Infrastructure Services</a></li>
+                      <li><a class="mobile-dropdown-item" href="../services/consultancyAndAdvisory/index.html">Consulting and Advisory</a></li>
+                      <li><a class="mobile-dropdown-item" href="../services/trainingAndDevelopment/index.html">Training and Development</a></li>
+                    
                       </ul>
                     </li>
                     <li class="dropdown-parent-li"><a href="#forStory">How we work</a></li>
@@ -393,17 +391,17 @@ class serviceheader2 extends HTMLElement {
                             <!-- uipl-sub-menu-section -->
                             <div class="uipl-sub-menu-section">
                               <ul class="menu">
-                                <li><a href="../services/digital-marketing/index.html">Digital Marketing</a></li>
-                                <!-- <li><a href="how-we-work">How we work</a></li> -->
-                                <li><a href="../services/web development/index.html">Web Devlopment and Design</a></li>
-                                <li><a href="#">Data Research and Analysis</a></li>
-                                <li><a href="#">Cloud Transformation and Services</a></li>
-                                <li><a href="../services/software/index.html">Software-Devlopment and Testing</a></li>
-                                <li><a href="../services/automation/index.html">Automation</a></li>
-                                 <li><a href="../services/it&infrastructure/index.html">IT Infrastructure Services</a></li>
-                                <li><a href="#">Advisory and Consultancy</a></li>
-                                <li><a href="../services/trainingAndDevelopment/index.html">Training and Devlopment</a></li>
-      
+                              <li><a class="mobile-dropdown-item" href="../services/digital-marketing/index.html">Digital Marketing</a></li>
+                              <!-- <li><a class="mobile-dropdown-item" h../ref="how-we-work">How we work</a></li> -->
+                              <li><a class="mobile-dropdown-item" href="../services/web development/index.html">Web Design and Development</a></li>
+                              <li><a class="mobile-dropdown-item" href="../services/datascience/index.html">Data Research and Analysis</a></li>
+                              <li><a class="mobile-dropdown-item" href="../services/software/index.html">Software-Development and Testing</a></li>
+                              <li><a class="mobile-dropdown-item" href="../services/cloudT&S">Cloud Transformation and Services</a></li>
+                              <li><a class="mobile-dropdown-item" href="../services/automation/index.html">Automation</a></li>
+                              <li><a class="mobile-dropdown-item" href="../services/it&infrastructure/index.html">IT Infrastructure Services</a></li>
+                              <li><a class="mobile-dropdown-item" href="../services/consultancyAndAdvisory/index.html">Consulting and Advisory</a></li>
+                              <li><a class="mobile-dropdown-item" href="../services/trainingAndDevelopment/index.html">Training and Development</a></li>
+                            
                               </ul>
                             </div>
                             <!-- uipl-sub-menu-section -->
@@ -496,15 +494,15 @@ class serviceheader extends HTMLElement {
             <ul id="menu-header-menu" class="main-menu">
               <li class="dropdown-parent-li"><a class="mobile-dropdown" href="#">Services</a> <span class="mobile-dropdown-arrow"></span>
                 <ul class="mobile-dropdown-list">
-                  <li><a class="mobile-dropdown-item" href="../../services/digital-marketing/index.html">Digital Marketing</a></li>
+                <li><a class="mobile-dropdown-item" href="services/digital-marketing/index.html">Digital Marketing</a></li>
                   <!-- <li><a class="mobile-dropdown-item" href="how-we-work">How we work</a></li> -->
                   <li><a class="mobile-dropdown-item" href="../../services/web development/index.html">Web Design and Development</a></li>
-                  <li><a class="mobile-dropdown-item" href="#">Data Research and Testing</a></li>
-                  <li><a href="../../services/software/index.html">Software-Devlopment and Testing</a></li>
-                  <li><a class="mobile-dropdown-item" href="#">Cloud Transformation and Services</a></li>
+                  <li><a class="mobile-dropdown-item" href="../../services/datascience/index.html">Data Research and Analysis</a></li>
+                  <li><a class="mobile-dropdown-item" href="../../services/software/index.html">Software-Development and Testing</a></li>
+                  <li><a class="mobile-dropdown-item" href="../../services/cloudT&S">Cloud Transformation and Services</a></li>
                   <li><a class="mobile-dropdown-item" href="../../services/automation/index.html">Automation</a></li>
-                  <li><a class="mobile-dropdown-item" href="../../services/it&infrastructure/index.html">IT Infrastructure</a></li>
-                  <li><a class="mobile-dropdown-item" href="#">Advisory and Consultancy</a></li>
+                  <li><a class="mobile-dropdown-item" href="../../services/it&infrastructure/index.html">IT Infrastructure Services</a></li>
+                  <li><a class="mobile-dropdown-item" href="../../services/consultancyAndAdvisory/index.html">Consulting and Advisory</a></li>
                   <li><a class="mobile-dropdown-item" href="../../services/trainingAndDevelopment/index.html">Training and Development</a></li>
                 </ul>
               </li>
@@ -602,17 +600,17 @@ class serviceheader extends HTMLElement {
                       <!-- uipl-sub-menu-section -->
                       <div class="uipl-sub-menu-section">
                         <ul class="menu">
-                          <li><a href="../../services/digital-marketing/index.html">Digital Marketing</a></li>
-                          <!-- <li><a href="how-we-work">How we work</a></li> -->
-                          <li><a href="../../services/web development/index.html">Web Design and Development</a></li>
-                          <li><a href="#">Data Research and Testing</a></li>
-                          <li><a href="../../services/software/index.html">Software-Devlopment and Testing</a></li>
-                          <li><a href="#">Cloud Transformation and Services</a></li>
-                          <li><a href="../../services/automation/index.html">Automation</a></li>
-                          <li><a href="../../services/it&infrastructure/index.html">IT Infrastructure</a></li>
-                          <li><a href="#">Advisory and Consultancy</a></li>
-                          <li><a href="../../services/trainingAndDevelopment/index.html">Training and Development</a></li>
-
+                        <li><a class="mobile-dropdown-item" href="../../services/digital-marketing/index.html">Digital Marketing</a></li>
+                        <!-- <li><a class="mobile-dropdown-item" h../../ref="how-we-work">How we work</a></li> -->
+                        <li><a class="mobile-dropdown-item" href="../../services/web development/index.html">Web Design and Development</a></li>
+                        <li><a class="mobile-dropdown-item" href="../../services/datascience/index.html">Data Research and Analysis</a></li>
+                        <li><a class="mobile-dropdown-item" href="../../services/software/index.html">Software-Development and Testing</a></li>
+                        <li><a class="mobile-dropdown-item" href="../../services/cloudT&S">Cloud Transformation and Services</a></li>
+                        <li><a class="mobile-dropdown-item" href="../../services/automation/index.html">Automation</a></li>
+                        <li><a class="mobile-dropdown-item" href="../../services/it&infrastructure/index.html">IT Infrastructure Services</a></li>
+                        <li><a class="mobile-dropdown-item" href="../../services/consultancyAndAdvisory/index.html">Consulting and Advisory</a></li>
+                        <li><a class="mobile-dropdown-item" href="../../services/trainingAndDevelopment/index.html">Training and Development</a></li>
+                      
                         </ul>
                       </div>
                       <!-- uipl-sub-menu-section -->

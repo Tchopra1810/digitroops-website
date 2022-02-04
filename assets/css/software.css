@@ -44,7 +44,7 @@ body{
 }
 .banner ul li{
     list-style-type: none;
-    margin: 20px 20px 0;
+    margin: 20px 12px 0;
     position: relative;
     font-weight: 300;
 }
@@ -54,7 +54,7 @@ body{
     width: 10px;
     height:10px;
     top:5px;
-    left:-25px;
+    left:-15px;
     background-color: #434d90;
     border-radius: 50px;
 }
@@ -389,6 +389,14 @@ h4 {
 }
 .footer-wrap .footer-bottom .copy-right p{
     color:#fff;
+}
+.whys img{
+    margin-left: 100px;
+}
+@media only screen and (max-width: 767px){
+	.whys img{
+        margin-left:0;
+    }
 }
 
 

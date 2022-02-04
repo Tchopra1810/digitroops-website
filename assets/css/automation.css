@@ -157,3 +157,11 @@
     font-size: 0.75rem;
     color: #585252;
 }
+.whys img{
+    margin-left: 100px;
+}
+@media only screen and (max-width: 767px){
+	.whys img{
+        margin-left:0;
+    }
+}
