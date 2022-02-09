@@ -38,7 +38,7 @@ class Header extends HTMLElement {
                   <li><a class="mobile-dropdown-item" href="services/web development/index.html">Web Design and Development</a></li>
                   <li><a class="mobile-dropdown-item" href="services/datascience/index.html">Data Research and Analysis</a></li>
                   <li><a class="mobile-dropdown-item" href="services/software/index.html">Software-Development and Testing</a></li>
-                  <li><a class="mobile-dropdown-item" href="services/cloudT&S">Cloud Transformation and Services</a></li>
+                  <li><a class="mobile-dropdown-item" href="services/cloudT&S/index.html">Cloud Transformation and Services</a></li>
                   <li><a class="mobile-dropdown-item" href="services/automation/index.html">Automation</a></li>
                   <li><a class="mobile-dropdown-item" href="services/it&infrastructure/index.html">IT Infrastructure Services</a></li>
                   <li><a class="mobile-dropdown-item" href="services/consultancyAndAdvisory/index.html">Consulting and Advisory</a></li>
@@ -147,7 +147,7 @@ class Header extends HTMLElement {
                         <li><a class="mobile-dropdown-item" href="services/web development/index.html">Web Design and Development</a></li>
                         <li><a class="mobile-dropdown-item" href="services/datascience/index.html">Data Research and Analysis</a></li>
                         <li><a class="mobile-dropdown-item" href="services/software/index.html">Software-Development and Testing</a></li>
-                        <li><a class="mobile-dropdown-item" href="services/cloudT&S">Cloud Transformation and Services</a></li>
+                        <li><a class="mobile-dropdown-item" href="services/cloudT&S/index.html">Cloud Transformation and Services</a></li>
                         <li><a class="mobile-dropdown-item" href="services/automation/index.html">Automation</a></li>
                         <li><a class="mobile-dropdown-item" href="services/it&infrastructure/index.html">IT Infrastructure Services</a></li>
                         <li><a class="mobile-dropdown-item" href="services/consultancyAndAdvisory/index.html">Consulting and Advisory</a></li>
@@ -285,7 +285,7 @@ class serviceheader2 extends HTMLElement {
                       <li><a class="mobile-dropdown-item" href="../services/web development/index.html">Web Design and Development</a></li>
                       <li><a class="mobile-dropdown-item" href="../services/datascience/index.html">Data Research and Analysis</a></li>
                       <li><a class="mobile-dropdown-item" href="../services/software/index.html">Software-Development and Testing</a></li>
-                      <li><a class="mobile-dropdown-item" href="../services/cloudT&S">Cloud Transformation and Services</a></li>
+                      <li><a class="mobile-dropdown-item" href="../services/cloudT&S/index.html">Cloud Transformation and Services</a></li>
                       <li><a class="mobile-dropdown-item" href="../services/automation/index.html">Automation</a></li>
                       <li><a class="mobile-dropdown-item" href="../services/it&infrastructure/index.html">IT Infrastructure Services</a></li>
                       <li><a class="mobile-dropdown-item" href="../services/consultancyAndAdvisory/index.html">Consulting and Advisory</a></li>
@@ -396,7 +396,7 @@ class serviceheader2 extends HTMLElement {
                               <li><a class="mobile-dropdown-item" href="../services/web development/index.html">Web Design and Development</a></li>
                               <li><a class="mobile-dropdown-item" href="../services/datascience/index.html">Data Research and Analysis</a></li>
                               <li><a class="mobile-dropdown-item" href="../services/software/index.html">Software-Development and Testing</a></li>
-                              <li><a class="mobile-dropdown-item" href="../services/cloudT&S">Cloud Transformation and Services</a></li>
+                              <li><a class="mobile-dropdown-item" href="../services/cloudT&S/index.html">Cloud Transformation and Services</a></li>
                               <li><a class="mobile-dropdown-item" href="../services/automation/index.html">Automation</a></li>
                               <li><a class="mobile-dropdown-item" href="../services/it&infrastructure/index.html">IT Infrastructure Services</a></li>
                               <li><a class="mobile-dropdown-item" href="../services/consultancyAndAdvisory/index.html">Consulting and Advisory</a></li>
@@ -499,7 +499,7 @@ class serviceheader extends HTMLElement {
                   <li><a class="mobile-dropdown-item" href="../../services/web development/index.html">Web Design and Development</a></li>
                   <li><a class="mobile-dropdown-item" href="../../services/datascience/index.html">Data Research and Analysis</a></li>
                   <li><a class="mobile-dropdown-item" href="../../services/software/index.html">Software-Development and Testing</a></li>
-                  <li><a class="mobile-dropdown-item" href="../../services/cloudT&S">Cloud Transformation and Services</a></li>
+                  <li><a class="mobile-dropdown-item" href="../../services/cloudT&S/index.html">Cloud Transformation and Services</a></li>
                   <li><a class="mobile-dropdown-item" href="../../services/automation/index.html">Automation</a></li>
                   <li><a class="mobile-dropdown-item" href="../../services/it&infrastructure/index.html">IT Infrastructure Services</a></li>
                   <li><a class="mobile-dropdown-item" href="../../services/consultancyAndAdvisory/index.html">Consulting and Advisory</a></li>
@@ -605,7 +605,7 @@ class serviceheader extends HTMLElement {
                         <li><a class="mobile-dropdown-item" href="../../services/web development/index.html">Web Design and Development</a></li>
                         <li><a class="mobile-dropdown-item" href="../../services/datascience/index.html">Data Research and Analysis</a></li>
                         <li><a class="mobile-dropdown-item" href="../../services/software/index.html">Software-Development and Testing</a></li>
-                        <li><a class="mobile-dropdown-item" href="../../services/cloudT&S">Cloud Transformation and Services</a></li>
+                        <li><a class="mobile-dropdown-item" href="../../services/cloudT&S/index.html">Cloud Transformation and Services</a></li>
                         <li><a class="mobile-dropdown-item" href="../../services/automation/index.html">Automation</a></li>
                         <li><a class="mobile-dropdown-item" href="../../services/it&infrastructure/index.html">IT Infrastructure Services</a></li>
                         <li><a class="mobile-dropdown-item" href="../../services/consultancyAndAdvisory/index.html">Consulting and Advisory</a></li>

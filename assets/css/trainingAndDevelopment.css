@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 .header-black::before{
     content: "";
     background: url("../images/trainingAndDevelopment/software-developer-g14a17845f_1920.jpg") no-repeat center center/cover;

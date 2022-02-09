@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+  }
 *{
     margin: 0;
     outline: none;
@@ -398,5 +401,7 @@ h4 {
         margin-left:0;
     }
 }
+
+
 
 

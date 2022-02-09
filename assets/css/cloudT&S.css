@@ -1,3 +1,6 @@
+html{
+    scroll-behavior: smooth;
+}
 .header-black::before{
     content: "";
     background: url("../images/cloudT&S/yoyo.jpg") no-repeat center center/cover;
@@ -96,10 +99,7 @@
 }
 
 
-.paraT{
-    
-    margin-top: 9vw;
-}
+
 .banner-main .page-title1 {
     font-size: 10vh;
     color: #fff;
@@ -366,4 +366,7 @@ h1{
     }
     
     
+}
+.main-navbar.bg{
+    position: fixed;
 }
